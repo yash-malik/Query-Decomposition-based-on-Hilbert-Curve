@@ -1,1 +1,6 @@
 Based on https://codeforces.com/blog/entry/61203
+
+Important Points:
+Hilbert Curve provides much better locality.
+
+"Both the true Hilbert curve and its discrete approximations are useful because they give a mapping between 1D and 2D space that preserves locality fairly well.[4] This means that two data points which are close to each other in one-dimensional space are also close to each other after folding. The converse can't always be true." (wikipedia)
